@@ -31,6 +31,7 @@ Connecting the Camera
 Connect the ribbon cable to the Camera (metal to metal) and connect the other end of the ribbon cable to the Pi 0’s camera port (metal to metal)
 
 
+![2016-05-15-16 32 19-500x375](https://user-images.githubusercontent.com/64620878/153738258-09239336-ec68-4e2c-8e21-a18802943c8c.jpg)
 
 
 Streaming video
