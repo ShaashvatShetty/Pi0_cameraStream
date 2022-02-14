@@ -43,7 +43,11 @@ sudo apt-get upgrade
 sudo pip3 install Flask
 
 
-next open up the terminal on the Pi and write git clone 
+next open up the terminal on the Pi and write git clone https://github.com/ShaashvatShetty/Pi0_cameraStream.git
+
+type the ip address into the laptop search bar
+
+The video should stream
 	
 
 
